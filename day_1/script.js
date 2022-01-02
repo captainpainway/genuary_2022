@@ -5,7 +5,7 @@ let max = 10000,
     time = 0.0;
 
 function preload() {
-    font = loadFont('KronaOne-Regular.ttf');
+    font = loadFont('../common/KronaOne-Regular.ttf');
 }
 
 function setup() {
