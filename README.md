@@ -1,6 +1,6 @@
 # Genuary 2022
 
-Prompts for Genuary 2022.
+Prompts for [Genuary 2022](https://genuary.art/).
 
 * Day 1: Draw 10,000 of something - https://twitter.com/CaptainPainway/status/1477381073050943493
 * Day 2: Dithering - https://twitter.com/CaptainPainway/status/1477673296648941574
