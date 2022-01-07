@@ -7,3 +7,4 @@ Prompts for [Genuary 2022](https://genuary.art/).
 * Day 3: Space - https://twitter.com/CaptainPainway/status/1478124263530024961
 * Day 4: The next next Fidenza - https://twitter.com/CaptainPainway/status/1478492882420047876
 * Day 5: Destroy a square - https://twitter.com/CaptainPainway/status/1478713461991514122
+* Day 6: Trade styles with a friend - https://twitter.com/CaptainPainway/status/1479161236650696704
