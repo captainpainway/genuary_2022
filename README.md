@@ -10,3 +10,6 @@ Prompts for [Genuary 2022](https://genuary.art/).
 * Day 6: Trade styles with a friend - https://twitter.com/CaptainPainway/status/1479161236650696704
 * Day 7: Sol LeWitt Wall Drawing - https://twitter.com/CaptainPainway/status/1479447789687947269
 * Day 8: Single curve only - https://twitter.com/CaptainPainway/status/1479920154771439616
+* Day 9: Architecture - https://twitter.com/CaptainPainway/status/1480258589944164353
+* Day 10: Machine learning, wrong answers only - https://twitter.com/CaptainPainway/status/1480585715394269185
+* Day 11: No computer - https://twitter.com/CaptainPainway/status/1480892080788582403
