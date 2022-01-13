@@ -13,3 +13,4 @@ Prompts for [Genuary 2022](https://genuary.art/).
 * Day 9: Architecture - https://twitter.com/CaptainPainway/status/1480258589944164353
 * Day 10: Machine learning, wrong answers only - https://twitter.com/CaptainPainway/status/1480585715394269185
 * Day 11: No computer - https://twitter.com/CaptainPainway/status/1480892080788582403
+* Day 12: Packing (squares, circles, any shape…) - https://twitter.com/CaptainPainway/status/1481246346090889218
