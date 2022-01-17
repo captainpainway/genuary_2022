@@ -17,3 +17,5 @@ Prompts for [Genuary 2022](https://genuary.art/).
 * Day 13: 800x80 - https://twitter.com/CaptainPainway/status/1481751381283377153
 * Day 14: Something you’d never make
 * Day 15: Sand - https://twitter.com/CaptainPainway/status/1482349357659607041
+* Day 16: Color gradients gone wrong - https://twitter.com/CaptainPainway/status/1482794863267569665
+* Day 17: 3 colors - https://twitter.com/CaptainPainway/status/1483205701287788554
